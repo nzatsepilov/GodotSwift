@@ -1,0 +1,11 @@
+module CGodot {
+    module GDNative {
+        umbrella header "gdnative/gdnative.h"
+    }
+    module NativeScript {
+        header "nativescript/godot_nativescript.h"
+    }
+    module API {
+        header "gdnative_api_struct.gen.h"
+    }
+}
