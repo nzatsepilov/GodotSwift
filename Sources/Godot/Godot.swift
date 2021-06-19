@@ -1,7 +1,3 @@
-//
-//  main.swift
-//  
-
 import Foundation
 import Godot
 import CGodot.API
