@@ -8,7 +8,7 @@ Requires [swift-DEVELOPMENT-SNAPSHOT-2021-05-28-a](https://swift.org/builds/deve
 ## Usage
 
 1. Build `Generator`
-2. ./Generator <path to [`api.json`](https://github.com/godotengine/godot-headers/blob/master/api.json)> <path to output directory>
+2. `./Generator <path to godot api.json> <path to output directory>` 
 
 Example output from Generator: https://gist.github.com/nzatsepilov/4824e9ea989a39314837af5ba1bef40d
 
