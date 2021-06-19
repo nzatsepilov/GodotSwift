@@ -10,7 +10,7 @@ private extension SyntaxBuildable {
     }
 }
 
-let args = CommandLine.arguments.dropFirst()
+let args = Array(CommandLine.arguments.dropFirst())
 
 if args.count < 2 {
     print("Please specify following paths:")
