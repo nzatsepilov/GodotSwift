@@ -13,7 +13,7 @@ Requires [swift-DEVELOPMENT-SNAPSHOT-2021-05-28-a](https://swift.org/builds/deve
 Example output from Generator: https://gist.github.com/nzatsepilov/4824e9ea989a39314837af5ba1bef40d
 
 ## TODO
-  - [ ] Generate properties
+  - [ ] Generate properties for classes
   - [ ] Bridge [GDNative types](https://github.com/godotengine/godot-headers/tree/master/gdnative)
   - [ ] Generate method implementations (calling c-methods from godot)
   - [ ] Signals
